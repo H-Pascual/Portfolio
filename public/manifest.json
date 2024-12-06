@@ -1,7 +1,17 @@
 {
   "short_name": "Portfolio",
-  "name": "Portfolio - Héctor Pascual Marín | Full Stack Developer",
+  "name": "Portfolio - Héctor Pascual Marín | FullStack Developer",
   "icons": [
+    {
+      "src": "favicon-logo.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logosinfondo-apple-touch.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
   ],
   "start_url": ".",
   "display": "standalone",
