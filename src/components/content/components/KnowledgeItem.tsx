@@ -1,7 +1,9 @@
 import React from "react"
 
 const KnowledgeItem = () => {
-    return (<></>)
+    return (<div id='knowledge'>
+        
+    </div>)
 }
 
 export default KnowledgeItem
