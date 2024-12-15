@@ -2,7 +2,7 @@ import React from "react"
 
 //FIXME - Crear animación header
 const Footer = () => {
-    return (<footer className="bg-gradient-to-r from-neutral-900 from-95% to-emerald-700 text-white py-1 px-2 flex flex-row static justify-between">
+    return (<footer className="bg-emerald-950 text-white py-1 px-2 flex flex-row static justify-between">
         <p><a href='/#'>Héctor Pascual Marín 2024</a></p>
         <ul className='flex flex-row'>
             <li className="mx-1 hover:underline"><a href='/#'>INICIO</a></li>
